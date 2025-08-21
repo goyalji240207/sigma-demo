@@ -6,3 +6,6 @@ shradha khapra
 
 # student
 sigma student
+
+# college
+IIT kanpur
